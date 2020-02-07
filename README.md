@@ -1,4 +1,4 @@
 
 ## Deep Learning Projects
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Deep Learning Project - CNN - Cell_semantic_segmantation](https://github.com/AsafKaslassy/Deep_Learning/blob/master/ProjectPreview/Cell_semantic_segmantation.JPG)
