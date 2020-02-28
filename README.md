@@ -4,6 +4,10 @@
 
 Deep Learning Project | status
 ------------ | -------------
+
+semantic_segmantation_using_Coco_DB https://github.com/AsafKaslassy/Deep_Learning/blob/master/Panoptic_Segmantation_Timor_and_Asaf.ipynb | :heavy_check_mark: done
+![Cell_semantic_segmantation](https://github.com/AsafKaslassy/Deep_Learning/blob/master/ProjectPreview/Coco.JPG)|
+
 Cell_semantic_segmantation https://github.com/AsafKaslassy/Deep_Learning/blob/master/Cell_semantic_segmantation.ipynb | :heavy_check_mark: done
 ![Cell_semantic_segmantation](https://github.com/AsafKaslassy/Deep_Learning/blob/master/ProjectPreview/Cell_semantic_segmantation.JPG)|
  cifar 10  object  recognition https://github.com/AsafKaslassy/Deep_Learning/blob/master/Cifar_10.ipynb |:heavy_check_mark:  done
