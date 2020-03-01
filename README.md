@@ -12,5 +12,5 @@ fashionMnist  object recognition  https://github.com/AsafKaslassy/Deep_Learning/
 ![fashionMnist](https://github.com/AsafKaslassy/Deep_Learning/blob/master/ProjectPreview/fashionMnist.JPG) |
 mnist_Digits object recognition https://github.com/AsafKaslassy/Deep_Learning/blob/master/Mnist_NeuralNetwork.ipnyb | :heavy_check_mark: done
 ![mnist_Digits](https://github.com/AsafKaslassy/Deep_Learning/blob/master/ProjectPreview/digits.JPG) |
-semantic_segmantation_using_Coco_DB https://github.com/AsafKaslassy/Deep_Learning/blob/master/Panoptic_Segmantation_Timor_and_Asaf.ipynb |:heavy_check_mark: done
+semantic_segmantation_using_Coco_DB https://github.com/AsafKaslassy/Deep_Learning/blob/master/Segmantation_CocoProject.ipynb |:heavy_check_mark: done
 ![Cell_semantic_segmantation](https://github.com/AsafKaslassy/Deep_Learning/blob/master/ProjectPreview/Coco.JPG)|
