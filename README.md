@@ -1,9 +1,10 @@
 
 ### Deep Learning Projects
 
+.
+
 Deep Learning Project | status
 ------------ | -------------
-
 Cell_semantic_segmantation https://github.com/AsafKaslassy/Deep_Learning/blob/master/Cell_semantic_segmantation.ipynb | :heavy_check_mark: done
 ![Cell_semantic_segmantation](https://github.com/AsafKaslassy/Deep_Learning/blob/master/ProjectPreview/Cell_semantic_segmantation.JPG)|
  cifar 10  object  recognition https://github.com/AsafKaslassy/Deep_Learning/blob/master/Cifar_10.ipynb |:heavy_check_mark:  done
